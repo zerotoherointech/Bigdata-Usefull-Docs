@@ -1,0 +1,9 @@
+https://community.cloudera.com/t5/Support-Questions/Cloudera-Quickstart-VM-Download/td-p/291225
+
+Download Location: https://downloads.cloudera.com/demo_vm/virtualbox/cloudera-quickstart-vm-5.12.0-0-virtualbox.zip
+ 
+Download Location: https://downloads.cloudera.com/demo_vm/vmware/cloudera-quickstart-vm-5.12.0-0-vmware.zip
+ 
+Download Location: https://downloads.cloudera.com/demo_vm/kvm/cloudera-quickstart-vm-5.12.0-0-kvm.zip
+ 
+Download Location: https://downloads.cloudera.com/demo_vm/docker/cloudera-quickstart-vm-5.12.0-0-beta-docker.tar.gz
